@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "矢野健太 starring Satoshi Ohno - 曇りのち、快晴 [Official Music Video]",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-12T08:43:06.710558Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "矢野健太 starring Satoshi Ohno 曇り、のち快晴",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_矢野健太_starring_Satoshi_Ohno_曇り、のち快晴_嵐.txt"
+    }
+  ]
+}
